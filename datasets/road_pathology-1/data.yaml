@@ -1,0 +1,13 @@
+names:
+- road_pathole
+- tree_fallen
+nc: 2
+roboflow:
+  license: CC BY 4.0
+  project: road_pathology-q69u7
+  url: https://universe.roboflow.com/ai-cg17p/road_pathology-q69u7/dataset/1
+  version: 1
+  workspace: ai-cg17p
+test: ../test/images
+train: ../train/images
+val: ../valid/images
